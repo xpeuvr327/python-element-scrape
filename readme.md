@@ -1,7 +1,7 @@
 # Python Element scraper
 ## Usage  
-On windows, run: `python element-scrape.py` (cmd)  
-`python .\element-scrape.py` (powershell)  then enter a number between one and 118.
+On windows, run: `python scrape-element.py` (cmd)  
+`python .\scrape-element.py` (powershell)  then enter a number between one and 118.
 ## Requirements  
 It requires `requests`, `lxml` and `bs4`.  
 run `pip install requests lxml bs4`
