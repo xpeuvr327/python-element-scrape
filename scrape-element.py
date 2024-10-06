@@ -12,5 +12,6 @@ if div:
     text = div.text.strip()
     text = ' '.join(text.split())
     print(f"The name of the element with atomic number {element} is {text}.")
+    input()
 else:
     print("Element not found on the page.")
